@@ -1,0 +1,5 @@
+# CAEN
+Host caen
+    HostName login.engin.umich.edu
+    User paddya
+    Compression yes
